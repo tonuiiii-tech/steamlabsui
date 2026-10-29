@@ -111,6 +111,7 @@ The Brand Manual's RGB values don't match its own hex codes (for example, Clover
 bun run docs   # writes docs-dist/index.html: ReadMe-style docs with live previews
 ```
 
+- [docs/PROJECT-BRIEF.md](docs/PROJECT-BRIEF.md): project ID, sponsor, target users, problem and current workarounds
 - [docs/INVENTORY.md](docs/INVENTORY.md): every component found across the repos and where it went
 - [docs/ADDING-COMPONENTS.md](docs/ADDING-COMPONENTS.md): how to add a component (`bun run new <Name>`)
 - [docs/PUBLISHING.md](docs/PUBLISHING.md): publishing to npm and bun
